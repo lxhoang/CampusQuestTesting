@@ -1,0 +1,19 @@
+{
+  "total": "2",
+  "data": [
+    {
+      "type": "twitter_follow_oc",
+      "status": "COMPLETED",
+      "questId": "twitter_follow_oc_no_phase",
+      "twitterAccount": "opencampus_xyz",
+      "twitterId": "1638639710204567554",
+      "points": 100
+    },
+    {
+      "type": "twitter_connect",
+      "status": "COMPLETED",
+      "questId": "twitter_connect_no_phase",
+      "points": 100
+    }
+  ]
+}

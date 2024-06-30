@@ -1,0 +1,15 @@
+{
+  "total": "2",
+  "data": [
+    {
+      "type": "twitter_post_about_ocid",
+      "questId": "twitter_post_about_ocid_no_phase",
+      "points": 1000
+    },
+    {
+      "type": "referral_invite_friends",
+      "questId": "referral_invite_friends_no_phase",
+      "points": 5000
+    }
+  ]
+}
